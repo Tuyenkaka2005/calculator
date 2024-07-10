@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Desktop\C#\LAP5\obj\Debug\LAP5.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\C#\LAP5\obj\Debug\LAP5.Form1.resources
+C:\Users\ADMIN\Desktop\C#\LAP5\obj\Debug\LAP5.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\C#\LAP5\obj\Debug\LAP5.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\C#\LAP5\obj\Debug\LAP5.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\C#\LAP5\bin\Debug\LAP5.exe.config
+C:\Users\ADMIN\Desktop\C#\LAP5\bin\Debug\LAP5.exe
+C:\Users\ADMIN\Desktop\C#\LAP5\bin\Debug\LAP5.pdb
+C:\Users\ADMIN\Desktop\C#\LAP5\obj\Debug\LAP5.exe
+C:\Users\ADMIN\Desktop\C#\LAP5\obj\Debug\LAP5.pdb
